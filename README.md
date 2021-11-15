@@ -1,2 +1,3 @@
 # test-repo
-öğrenciyiz abi :)
+
+na buraya plain text geliyor
